@@ -13,5 +13,5 @@ body { font-family: 'Poppins', sans-serif; }
 .estudante-div { text-align: center; padding: 16px 0; }
 .estudante-titulo { text-align: center; padding: 50px 0; }
 .estudante-todos { display: grid; grid-template-columns: 33% 33% 33%; gap: 16px; }
-.rodape { background-color: black; text-align: center; color: white; padding: 12px 0; }
+.rodape { background-color: #49703b; text-align: center; color: white; padding: 12px 0; }
 .rodape-imagem { height: 60px; }
